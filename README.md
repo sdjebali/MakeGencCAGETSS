@@ -13,4 +13,6 @@ This script provides as output in the directory where it is executed the followi
 
 It is important to note that this script requires **bedtools**
 
+In order to clone the repository do
 
+git clone https://github.com/sdjebali/MakeGencCAGETSS.git
